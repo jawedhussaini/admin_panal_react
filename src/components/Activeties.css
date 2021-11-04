@@ -1,0 +1,12 @@
+.blog-div {
+  margin-top: -30px;
+}
+.col-lgss-4 {
+  width: 30%;
+}
+@media screen and (max-width: 950px) {
+  .col-lgss-4 {
+    width: 93%;
+    padding: auto;
+  }
+}

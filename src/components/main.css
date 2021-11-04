@@ -1,0 +1,12 @@
+div.content {
+  margin-top: 80px;
+  background-color: rgb(244, 244, 244);
+  margin-left: 300px;
+  padding: 1px 16px;
+}
+
+@media screen and (max-width: 950px) {
+  div.content {
+    margin-left: 0;
+  }
+}

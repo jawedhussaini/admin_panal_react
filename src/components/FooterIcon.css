@@ -1,0 +1,10 @@
+.footer-image {
+  width: 60px;
+  height: 60px;
+}
+.footer-icons:hover {
+  background-color: rgb(244, 244, 244);
+}
+.footer-btn {
+  background-color: rgb(244, 244, 244);
+}

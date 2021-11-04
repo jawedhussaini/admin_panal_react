@@ -1,0 +1,16 @@
+.col-lgs-4 {
+  flex: 0 0 auto;
+  width: 33.33333333%;
+}
+@media screen and (max-width: 1100px) {
+  .col-lgs-4 {
+    flex: 0 0 auto;
+    width: 50%;
+  }
+}
+@media screen and (max-width: 700px) {
+  .col-lgs-4 {
+    flex: 0 0 auto;
+    width: 100%;
+  }
+}

@@ -1,0 +1,62 @@
+:root {
+  --primary: #fff;
+}
+.btns {
+  padding: 6px 20px;
+  border-radius: 2px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  color: #fff;
+}
+.no-style {
+  border: 0px;
+  outline: none;
+  background-color: none;
+}
+
+.btn--medium {
+  padding: 6px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+}
+.btn--large {
+  padding: 12px 26px;
+  font-size: 20px;
+  color: white;
+  border-radius: 5px;
+}
+.btn-rounded {
+  padding: 10px 22px;
+  font-size: 20px;
+  color: white;
+  border-radius: 25px;
+}
+
+.btn-warning {
+  color: #000;
+  background-color: #0dcaf0;
+  border-color: #0dcaf0;
+}
+
+.btn-info {
+  color: #000;
+  background-color: #0dcaf0;
+  border-color: #0dcaf0;
+}
+.btn-primary {
+  color: #fff;
+  background-color: #0d6efd;
+  border-color: #0d6efd;
+  border-radius: 0px 6px 6px 0px;
+}
+.btn-danger {
+  color: #fff;
+  background-color: #dc3545;
+  border-color: #dc3545;
+}
+.btn-success {
+  color: #fff;
+  background-color: #198754;
+  border-color: #198754;
+}
